@@ -1,0 +1,10 @@
+Nombre: Esteban
+Apellidos: Albarrán Tirado
+Edad: 27
+Asignaturas: Programación, Bases de datos, Matemáticas, Inglés
+Notas: 10, 9, 8.5, 10
+Nombre: Pablo
+Apellidos: González Núñez
+Edad: 35
+Asignaturas: Programación, Bases de datos, Matemáticas, Inglés
+Notas: 6, 7, 9, 5
